@@ -1,1 +1,2 @@
 dia 1 hoy empeze a aprender git.
+dia 2 ya hice mi commit
